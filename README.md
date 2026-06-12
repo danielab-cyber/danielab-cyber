@@ -1,4 +1,4 @@
-![](https://github.com/danielab-cyber/danielab-cyber/blob/main/banner.png)
+![](https://github.com/danielab-cyber/danielab-cyber/blob/main/banner2.png)
 
 <h1 align="center";">
   ¡HI! 👋🏼 I'm Karol Daniela
