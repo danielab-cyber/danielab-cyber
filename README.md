@@ -1,16 +1,24 @@
-## Hi there I'm Karol 👋
+<p align="center">
+    <img src="daniela_banner.png" alt="Daniela Banner" width="100%">
+</p>
 
+<h1 align="center">Hi! I'm Karol 👋 </h1>
 
-**danielab-cyber/danielab-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>About Me
 
-Here are some ideas to get you started:
+<blockquote>
+    <p>
+        Soy Ingeniera Mecatrónica apasionada por la robótica, la inteligencia artificial
+        y el desarrollo de tecnologías asistenciales. Me gusta transformar ideas en
+        proyectos reales que integren ingeniería, creatividad y propósito.
+    </p>
+</blockquote></h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+    <summary><b>About Me</b></summary>
+    <br>
+
+    Soy Ingeniera Mecatrónica apasionada por la robótica, la inteligencia artificial
+    y el desarrollo de tecnologías asistenciales.
+
+</details>
