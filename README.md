@@ -40,14 +40,8 @@ Soy estudiante de Ingeniería Mecatrónica, cursando mi sexto semestre, con un g
 
 <br>
 
-## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHQyc2k3NzVzMDBsZDVoZjJyYnJ0NG4yd291MmFnZWlvMG9ybW5mciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Kbr7WPHxja0vlM3KpE/giphy.gif" width ="25"><b> Research </b>
-![Semillero Tesla-Excel 1](https://img.shields.io/badge/Semillero%20Tesla-05122A?style=flat&link=https%3A%2F%2F1drv.ms%2Fx%2Fc%2FDD95F414F8D42440%2FIQBoQF9nrtE_TLlNzQ9_y3hZATgGfBJTu6i5a7pGRYygOYM%3Fe%3DudLT9f
-)&nbsp;
 
-
-
-
-<h2 align="center">🔬 Research</h2>
+<h2 align="left">🔬 Research</h2>
 <table align="center">
 <tr><td>
 <sub>
@@ -68,6 +62,13 @@ La investigación es una parte fundamental de mi crecimiento académico y profes
 </td></tr>
 </table>
 
+<table>
+	<tr>
+		<td>
+			----
+		</td>
+	</tr>
+</table>
 
 
 
