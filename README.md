@@ -62,28 +62,42 @@ La investigación es una parte fundamental de mi crecimiento académico y profes
 </td></tr>
 </table>
 
+
 <table>
-	<tr>
-		<td>
-			----
-		</td>
-	</tr>
+<tr>
+<td>
+	
+[![Research](https://img.shields.io/badge/🔬-Semillero%20Tesla-6A5ACD?style=for-the-badge)](https://1drv.ms/x/c/DD95F414F8D42440/IQBoQF9nrtE_TLlNzQ9_y3hZATgGfBJTu6i5a7pGRYygOYM?e=1v2LZZ)
+
+</td>
+</tr>
 </table>
 
+<br>
+<div align="center">
+  <h2 align="left"> 🤖 GitHub Profile Stats </h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=danielab-cyber&show_icons=true&theme=tokyonight&hide_border=true&locale=en"
+    alt="https://github.com/danielab-cyber" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielab-cyber&theme=material-palenight" alt="https://github.com/danielab-cyber" />
+</div>
+<hr>
+
+
+<div align="center">
+  <img  src="resources/img/github-contribution-grid-snake.svg"
+    alt="danielab-cyber" />
+</div>
 
 
 
+import { generateSnakeAnimation } from "generate-snake-animation";
+const results = await generateSnakeAnimation(
+  {
+    platform: "github", // supports github, gitlab and forgejo (codeberg)
+    username: "platane",
+    githubToken: process.env.GITHUB_TOKEN,
+  },
+  outputs,
+);
 
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=candida18&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=candida18&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
-
+fs.writeFileSync("snake.svg", results[0]);
