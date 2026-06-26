@@ -67,7 +67,7 @@ La investigación es una parte fundamental de mi crecimiento académico y profes
 <tr>
 <td>
 	
-[![Research](https://img.shields.io/badge/🔬-Semillero%20Tesla-6A5ACD?style=for-the-badge)](https://1drv.ms/x/c/DD95F414F8D42440/IQBoQF9nrtE_TLlNzQ9_y3hZATgGfBJTu6i5a7pGRYygOYM?e=1v2LZZ)
+[![Research](https://img.shields.io/badge/🔬-Semillero%20Tesla-556EA6?style=for-the-badge)](https://1drv.ms/x/c/DD95F414F8D42440/IQBoQF9nrtE_TLlNzQ9_y3hZATgGfBJTu6i5a7pGRYygOYM?e=1v2LZZ)
 
 </td>
 </tr>
@@ -83,21 +83,4 @@ La investigación es una parte fundamental de mi crecimiento académico y profes
 <hr>
 
 
-<div align="center">
-  <img  src="resources/img/github-contribution-grid-snake.svg"
-    alt="danielab-cyber" />
-</div>
-
-
-
-import { generateSnakeAnimation } from "generate-snake-animation";
-const results = await generateSnakeAnimation(
-  {
-    platform: "github", // supports github, gitlab and forgejo (codeberg)
-    username: "platane",
-    githubToken: process.env.GITHUB_TOKEN,
-  },
-  outputs,
-);
-
-fs.writeFileSync("snake.svg", results[0]);
+![snake gif](https://github.com/danielab-cyber/danielab-cyber/blob/output/github-snake.svg)
