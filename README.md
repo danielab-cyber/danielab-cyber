@@ -47,6 +47,32 @@ Soy estudiante de Ingeniería Mecatrónica, cursando mi sexto semestre, con un g
 
 
 
+<h2 align="center">🔬 Research</h2>
+<table align="center">
+<tr><td>
+<sub>
+Research is an essential part of my academic and professional growth. I maintain continuously updated research documents where I organize scientific literature, summarize key findings, identify relevant concepts, and document insights that support my ongoing learning and research activities.
+<br>
+<b>Explore my research documents by clicking the badge below.</b>
+</sub>
+<br><br>
+<details>
+<summary><b>Ver en español</b></summary>
+<br>
+<sub>
+La investigación es una parte fundamental de mi crecimiento académico y profesional. Mantengo documentos de investigación actualizados continuamente, donde organizo literatura científica, resumo hallazgos relevantes, identifico conceptos clave y documento ideas que respaldan mi proceso de aprendizaje y mis actividades de investigación.
+<br>
+<b>Explora mis documentos de investigación haciendo clic en las insignias a continuación.</b>
+</sub>
+</details>
+</td></tr>
+</table>
+
+
+
+
+
+
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
