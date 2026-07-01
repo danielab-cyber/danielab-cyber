@@ -76,8 +76,8 @@ La investigación es una parte fundamental de mi crecimiento académico y profes
 <br>
 <div align="center">
   <h2 align="left"> 🤖 GitHub Profile Stats </h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=danielab-cyber&show_icons=true&theme=tokyonight&hide_border=true&locale=en"
-    alt="https://github.com/danielab-cyber" />
+ <!--<img src="https://github-readme-stats.vercel.app/api?username=danielab-cyber&show_icons=true&theme=tokyonight&hide_border=true&locale=en"
+    alt="https://github.com/danielab-cyber" />-->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielab-cyber&theme=material-palenight" alt="https://github.com/danielab-cyber" />
 </div>
 <hr>
