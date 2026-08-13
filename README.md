@@ -67,7 +67,7 @@ La investigación es una parte fundamental de mi crecimiento académico y profes
 <tr>
 <td>
 	
-[![Research](https://img.shields.io/badge/🔬-Semillero%20Tesla-556EA6?style=for-the-badge)](https://1drv.ms/x/c/DD95F414F8D42440/IQBoQF9nrtE_TLlNzQ9_y3hZATgGfBJTu6i5a7pGRYygOYM?e=1v2LZZ)
+[![Research](https://img.shields.io/badge/🔬-Semillero%20Tesla-556EA6?style=for-the-badge)](https://github.com/danielab-cyber/Semillero-Tesla)
 
 </td>
 </tr>
